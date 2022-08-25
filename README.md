@@ -9,3 +9,6 @@ On Target Machine:
 On C2 (192.168.200.2):
 
 .\C2Server.ps1 * 80
+
+
+https://github.com/v3gard/FakeRansomware
